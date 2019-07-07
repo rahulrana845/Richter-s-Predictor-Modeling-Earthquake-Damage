@@ -1,5 +1,8 @@
-# Richter-s-Predictor-Modeling-Earthquake-Damage
+#### Richter-s-Predictor-Modeling-Earthquake-Damage
 https://www.drivendata.org/competitions/57/nepal-earthquake/
+
+#### Current LB score : 0.7420
+#### Current Rank : 31
 
 <img src="https://s3.amazonaws.com/drivendata-public-assets/nepal-quake-bm-2.JPG">
 
